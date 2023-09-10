@@ -60,7 +60,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Jetun Patel";
-            $("#favicon").attr("href", "/Portfolior/imgs/logo.png");
+            $("#favicon").attr("href", "imgs/logo.png");
         }
     
     });
@@ -104,7 +104,7 @@ async function fetchData(type = "skills") {
     type === "skills" ?
         response = await fetch("skills.json")
         :
-        response = await fetch("./projects/projects.json")
+        response = await fetch("/projects/projects.json")
     const data = await response.json();
     return data;
 }
@@ -117,7 +117,7 @@ function showProjects(projects) {
     projects.slice(0, 10).filter(project => project.category != "android").forEach(project => {
         projectHTML += `
         <div class="box tilt">
-      <img draggable="false" src="/New folder/imgs/project/${project.image}.png" alt="project" />
+      <img draggable="false" src="imgs/project/${project.image}.png" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
