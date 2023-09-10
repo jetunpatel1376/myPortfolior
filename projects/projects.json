@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Job Finder",
+    "desc": "I had worked on job finder project for my summer internship where me and my team made job finder bot. ",
+    "image": "machine-learning",
+    "category": "machine-learning",
+    "links": {
+      "view": "https://www.linkedin.com/posts/gohelmitali_jobbot-dataanalysis-powerbi-ugcPost-7098697917728768000-AdPC?utm_source=share&utm_medium=member_android",
+      "code": "https://github.com/jetunpatel1376/job-finderbot"
+    }
+  },
+  {
+    "name": "Power Bi",
+    "desc": "I had also explored and made one dashboards using power bi. ",
+    "image": "power-bi-logo-1080x576 (1)",
+    "category": "Data-analytics",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jetun-patel-128962268_edunetfoundation-codeunnati-sapanalyticscloud-activity-7096505314564292608-XhKl?utm_source=share&utm_medium=member_android",
+      "code": "https://github.com/jetunpatel1376/powerbi"
+    }
+  },
+  {
+    "name": "Netflix Website",
+    "desc": "it is bootstrap based website similar to netflix page which i made for bharat intern.",
+    "image": "Netflix_Symbol_logo",
+    "category": "webtechnology",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Portfolio Website i had made during internship od bharat intern. here u can get qucki information about me!",
+    "image": "images (1)",
+    "category": "webtechnology",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Costimater website",
+    "desc": "Costimater is website whichi had developed in  hackathon which is use for civil developments.",
+    "image": "MTI-Systems-Costimator-news (1)",
+    "category": "webtechnology",
+    "links": {
+      "view": "X",
+      "code": "x"
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "updated soon",
+    "image": "1_y6C4nSvy2Woe0m7bWEn4BA",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]

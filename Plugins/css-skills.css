@@ -1,0 +1,15 @@
+.snow  {
+    
+    position:absolute;
+  }
+  #blurCanvasTop{
+    left:0%;
+    top:0%;
+    position:absolute;
+  }
+  #blurCanvasBottom{
+    left:50%;
+    top:0;
+    position:absolute;
+  }
+  
